@@ -31,7 +31,11 @@ This project leverages the latest in Kotlin Multiplatform development:
 
 | Android | iOS |
 |:---:|:---:|
-| <img src="docs/android_screenshot.png" width="250" alt="Android Screenshot" /> | <img src="docs/ios_screenshot.png" width="250" alt="iOS Screenshot" /> |
+| <img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/e2014d76-f942-473b-86c5-4e30e9062341" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/76a869a0-be7b-4754-a6e2-2d6ad11f1cb2" />
+ | <img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-12-06 at 23 52 21" src="https://github.com/user-attachments/assets/e305f24d-ed66-4090-96be-098b0b2ce3c3" />
+<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 15 Pro - 2025-12-06 at 23 49 56" src="https://github.com/user-attachments/assets/3408b2fd-b13e-4723-99f0-7e906421f844" />
+ |
 
 ## 🏁 Getting Started
 
